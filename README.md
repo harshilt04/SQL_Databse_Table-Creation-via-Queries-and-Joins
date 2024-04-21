@@ -5,3 +5,5 @@ I have used Postgre SQL and Pgadmin 4 to create tables and relationships between
 In the first step, I have created table from row CSV file using various queries.
 
 I have used different clause like InsertInto, Select, And, Where, Or etc.
+
+I have also performed operations like Joins, Unions and Subqueries to manipulate data.
