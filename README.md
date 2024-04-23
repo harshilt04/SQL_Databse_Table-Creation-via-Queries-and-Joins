@@ -1,6 +1,6 @@
 # SQL_Databse_Table-Creation-via-Queries-and-Joins
 
-I have used **Postgre SQL** and **Pgadmin 4** to create tables and relationships between them.
+I have used **PostgreSQL** and **pgAdmin 4** to create tables and relationships between them.
 
 I have performed different functions and steps in this projects.
 
